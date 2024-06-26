@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\C# Scanner\\ScannerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScannerApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ScannerApp.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\C# Scanner\\ScannerApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "G:\\C# Scanner\\ScannerApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\C# Scanner\\ScannerApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\C# Scanner\\ScannerApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScannerApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScannerApp.props",
+      "PackagePath": "build\\ScannerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScannerApp.props",
+      "PackagePath": "buildMultiTargeting\\ScannerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScannerApp.props",
+      "PackagePath": "buildTransitive\\ScannerApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
